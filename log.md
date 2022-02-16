@@ -10,8 +10,8 @@
 
 ### Day 2: February
 
-**Today's Progress**:
+**Today's Progress**: Today was a bit scattered but I was able to complete my tribue page first thing this morning. That felt great! Now I'm on to my second project.
 
-**Thoughts**:
+**Thoughts**: Completing a project was a great feeling!
 
-**Link to work**:
+**Link to work**: Master Cheif tribute page https://codepen.io/tinymrsb/full/jOawyqj

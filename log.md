@@ -8,10 +8,18 @@
 
 **Link to work:** Master Cheif tribute page https://codepen.io/tinymrsb/full/jOawyqj
 
-### Day 2: February
+### Day 2: February 15, 2022
 
 **Today's Progress**: Today was a bit scattered but I was able to complete my tribue page first thing this morning. That felt great! Now I'm on to my second project.
 
 **Thoughts**: Completing a project was a great feeling!
 
 **Link to work**: Master Cheif tribute page https://codepen.io/tinymrsb/full/jOawyqj
+
+### Day 3: February 16, 2022
+
+**Today's Progress**: Completed my second project start to finish. I created a simple form on CodePen for FreeCodeCamp.
+
+**Thoughts:** I'm proud of myself for submitting part two and I'm ready to tackle the next project. 
+
+**Link to work**: Reading Habits Survey Form https://codepen.io/tinymrsb/full/poddyVd

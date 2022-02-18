@@ -23,3 +23,11 @@
 **Thoughts:** I'm proud of myself for submitting part two and I'm ready to tackle the next project. 
 
 **Link to work**: Reading Habits Survey Form https://codepen.io/tinymrsb/full/poddyVd
+
+### Day 5: February 17, 2022
+
+**Today's Progress**: Slow and steady today. I rushed through my first two projects. For this project, a Product Landing Page, I'm going to take time to make it feel more appealing. Using an iOS app I created mockups of the landing page I would like to create.
+
+**Thoughts:** I'm trying to slow down, I'm learning but I also want to enjoy the creation and design. 
+
+**Link to work**: Mockup created https://twitter.com/tinymrsb/status/1494485615311822849?s=20&t=NMq5Rz1Q1MTcUMZ51cn-CA

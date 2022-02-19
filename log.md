@@ -31,3 +31,19 @@
 **Thoughts:** I'm trying to slow down, I'm learning but I also want to enjoy the creation and design. 
 
 **Link to work**: Mockup created https://twitter.com/tinymrsb/status/1494485615311822849?s=20&t=NMq5Rz1Q1MTcUMZ51cn-CA
+
+### Day 6: February 18, 2022
+
+**Today's Progress**: My current project is the FCC landing page. Using my mockup from Day 5 I started laying out the code on CodePen and completely hit a brick wall. I realized I'm not grasping flexbox, which is what I planned to use. So I took time to write up practice flexbox layouts and found a great tutorial video to help me out with the concepts. 
+
+**Thoughts:** Slow an steady wins the race
+
+**Link to work**: Todays tweet with video I used https://twitter.com/tinymrsb/status/1494701840428154888?s=20&t=aeZkRhZsMEPGrKVgLWEhVw
+
+### Day 7: February 19, 2022
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work**: 

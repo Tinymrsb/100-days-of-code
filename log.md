@@ -47,3 +47,35 @@
 **Thoughts:** I've learned that I need to schedule late night lesson time on busy days.
 
 **Link to work**: None today
+
+### Day 8: February 20, 2022
+
+**Today's Progress**: Making time to practice flexbox today with the Froggy game. I've used it before, but when searching here on GitHub I was reminded of it.
+
+**Thoughts:** Games that encourage repetition and practice are really great learning tools for me.
+
+**Link to work**: Site used for practice: https://flexboxfroggy.com/
+
+### Day 9: February 21, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work**: 
+
+### Day 10: February 22, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work**: 
+
+### Day 11: February 23, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work**: 

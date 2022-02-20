@@ -42,8 +42,8 @@
 
 ### Day 7: February 19, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Today was a very slow learning day. We are selling our house, so life has taken presidence. 
 
-**Thoughts:**
+**Thoughts:** I've learned that I need to schedule late night lesson time on busy days.
 
-**Link to work**: 
+**Link to work**: None today

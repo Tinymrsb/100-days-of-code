@@ -58,17 +58,17 @@
 
 ### Day 9: February 21, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Flexbox again was a fun skill to practice today.
 
-**Thoughts:** 
+**Thoughts:** Finding games based on the syntax has been so fun.
 
-**Link to work**: 
+**Link to work**: Games I've been playing https://twitter.com/tinymrsb/status/1495434818317860867?s=20&t=QFZwKJIqSb2pKbSk0kunwQ
 
 ### Day 10: February 22, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Began writing out HTML and CSS for Landing Page project. I'm using CodePen.io
 
-**Thoughts:** 
+**Thoughts:** The games I've been using to practive have helped so much. I am going to create a cheatsheet for myself with the flexbox rules. When I find cheatsheets and documents they have TOO much info.
 
 **Link to work**: 
 

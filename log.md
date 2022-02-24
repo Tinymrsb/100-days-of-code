@@ -79,3 +79,19 @@
 **Thoughts:** 
 
 **Link to work**: 
+
+### Day 12: February 23, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work**: 
+
+### Day 13: February 23, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work**: 

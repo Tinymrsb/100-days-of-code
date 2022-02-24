@@ -74,21 +74,20 @@
 
 ### Day 11: February 23, 2022
 
+**Today's Progress**: Let JavaScript begin! I've started JS in FCC. Even tho I'm am needing to complete three projects for my Responsive Web Design Certification I feel like I need to keep moving forward. The projects will come, that is why my journey is self-taught and self-paced.
+**Thoughts:** 
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
+### Day 12: February 24, 2022
+
 **Today's Progress**: 
 
 **Thoughts:** 
 
 **Link to work**: 
 
-### Day 12: February 23, 2022
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work**: 
-
-### Day 13: February 23, 2022
+### Day 13: February 25, 2022
 
 **Today's Progress**: 
 

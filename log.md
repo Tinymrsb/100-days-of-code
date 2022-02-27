@@ -94,3 +94,27 @@
 **Thoughts:** 
 
 **Link to work**: 
+
+### Day 14: February 26, 2022
+
+**Today's Progress**: The world is an exhausting place, the news can be overwhelming. I'm blessed to be in the position I am. Today I took a step back and completed some HTML and CSS review on the Sololearn app on my iPad.
+
+**Thoughts:** This review is much less hands on but does bring needed challenges to help solidify concepts.
+
+**Link to work**: Sololearn.com
+
+### Day 15: February 27, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work**: 
+
+### Day 16: February 28, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work**: 

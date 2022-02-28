@@ -105,15 +105,15 @@
 
 ### Day 15: February 27, 2022
 
-**Today's Progress**: 
+**Today's Progress**: While working on my FCC project I want to use my own images, even if its a landing page for fake company or product. I love using Canva so this is an opportunity to mesh canva into my work. Using the link below I followed the steps to host images here on GitHub. It took a few tutorials to find the best route but this 'hack' was a winner.
 
-**Thoughts:** 
+**Thoughts:** GitHub is a welth of knowledge, im just a the starting line.
 
-**Link to work**: Resource used: https://t.co/lER9kmwi4Q
+**Link to work**: Currnetly working on: https://codepen.io/tinymrsb/pen/xxPYgoK Resource used: https://t.co/lER9kmwi4Q
 
 ### Day 16: February 28, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Todays goal is completing my FCC landing page project.
 
 **Thoughts:** 
 

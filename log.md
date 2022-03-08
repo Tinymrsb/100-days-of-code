@@ -115,6 +115,70 @@
 
 **Today's Progress**: Todays goal is completing my FCC landing page project.
 
+**Thoughts:** This project is a wall for me. I need to get it complete. 
+
+**Link to work**: 
+
+### Day 17: March 1, 2022
+
+**Today's Progress**: 
+
 **Thoughts:** 
+
+**Link to work**: 
+
+### Day 18: March 2, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work**: 
+
+### Day 19: March 3, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work**: 
+
+### Day 20: March 4, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work**: 
+
+### Day 21: March 5, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work**: 
+
+### Day 22: March 6, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work**: 
+
+### Day 23: March 7, 2022
+
+**Today's Progress**: Learned the History of Python and uses over time. 
+
+**Thoughts:** Sometimes I and wary of my choice to pick python as the language to learn! Machine Learning and AI are intimidating! As of right now, thats not the path I am taking with Python but I just hope I picked the right thing to learn, for me. 
+
+**Link to work**: Youtube resurces
+
+### Day 24: March 8, 2022
+
+**Today's Progress**: Today I am continuing to read Automate The Boring Stuff With Python by Al Sweigart. I am going to install Python and set up my work environment with the steps provided in the book. 
+
+**Thoughts:** Python.org has everything I've been searching for.
 
 **Link to work**: 

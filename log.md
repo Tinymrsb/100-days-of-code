@@ -182,3 +182,11 @@
 **Thoughts:** Python.org has everything I've been searching for.
 
 **Link to work**: 
+
+### Day 25: March 9, 2022
+
+**Today's Progress**: I have circled back around to the FCC Landing page project. My goal is to have it completed and submitted today.
+
+**Thoughts:** Writing this project line by line is helping me understand placement and fuctionalitiy. 
+
+**Link to work**: CodePen FCC Landing page https://codepen.io/tinymrsb/pen/XWzwvWV

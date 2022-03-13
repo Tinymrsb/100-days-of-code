@@ -190,3 +190,35 @@
 **Thoughts:** Writing this project line by line is helping me understand placement and fuctionalitiy. 
 
 **Link to work**: CodePen FCC Landing page https://codepen.io/tinymrsb/pen/XWzwvWV
+
+### Day 26: March 10, 2022
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work**:
+
+### Day 27: March 11, 2022
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work**:
+
+### Day 27: March 12, 2022
+
+**Today's Progress**: Following a FCC Personal Portfolio tutorial on Youtube.
+
+**Thoughts:** What a challenge! I have come across a few issues and had to go back and pay attention to each line I'm writing. Simply typos cause big issues! 
+
+**Link to work**: https://codepen.io/tinymrsb/pen/mdpdOmb
+
+### Day 28: March 13, 2022
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work**:

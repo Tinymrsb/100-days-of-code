@@ -222,3 +222,19 @@
 **Thoughts:**
 
 **Link to work**:
+
+### Day 29: March 14, 2022
+
+**Today's Progress**:
+
+**Thoughts:** I'm absolutly rubbish at updating this log.
+
+**Link to work**:
+
+### Day 30: March 15, 2022
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work**:

@@ -238,3 +238,27 @@
 **Thoughts:**
 
 **Link to work**:
+
+### Day 31: March 16, 2022
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work**:
+
+### Day 32: March 17, 2022
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work**:
+
+### Day 33: March 18, 2022
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work**: https://codepen.io/tinymrsb/pen/mdpdOmb?editors=1100

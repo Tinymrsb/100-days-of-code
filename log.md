@@ -257,8 +257,16 @@
 
 ### Day 33: March 18, 2022
 
-**Today's Progress**:
+**Today's Progress**: Finally completed the last project for the FCC responsive web design.
 
 **Thoughts:**
 
 **Link to work**: https://codepen.io/tinymrsb/pen/mdpdOmb?editors=1100
+
+### Day 34: March 19, 2022
+
+**Today's Progress**: Learning CSS is hard! Today I'm focusing on resets and Noramilize.css
+
+**Thoughts:** upon starting today I had no idea what these two things were.
+
+**Link to work**: Used this to study: https://necolas.github.io/normalize.css/

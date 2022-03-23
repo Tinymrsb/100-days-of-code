@@ -270,3 +270,27 @@
 **Thoughts:** upon starting today I had no idea what these two things were.
 
 **Link to work**: Used this to study: https://necolas.github.io/normalize.css/
+
+### Day 35: March 20, 2022
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work**: 
+
+## Day 36: March 21, 2022
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work**: 
+
+## Day 37: March 22, 2022
+
+**Today's Progress**: Today I did not code. Today I realized I need to organize my learning in a way that helps me focus on LEARNING and not searching for things to learn.
+
+**Thoughts:** It is easy to get sucked into a loop of 'OOOH shiny new project' and never come up for air. So today I made some changes. I automated some of my 'time waisting' tasks like social media, I made a game plan for the time of day I want to focus on learning each day.
+
+**Link to work**: What is a brain.

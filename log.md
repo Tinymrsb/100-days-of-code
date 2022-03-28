@@ -294,3 +294,51 @@
 **Thoughts:** It is easy to get sucked into a loop of 'OOOH shiny new project' and never come up for air. So today I made some changes. I automated some of my 'time waisting' tasks like social media, I made a game plan for the time of day I want to focus on learning each day.
 
 **Link to work**: What is a brain.
+
+## Day 38: March 23, 2022
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work**: 
+
+## Day 39: March 24, 2022
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work**: 
+
+## Day 40: March 25, 2022
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work**: 
+
+## Day 41: March 26, 2022
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work**: 
+
+## Day 42: March 27, 2022
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work**: 
+
+## Day 43: March 28, 2022
+
+**Today's Progress**: I signed up for codecademys pro Full Stack Engineer program. I feel like I've hit a point where I need to review everything I've learned in HTML and CSS web basics before I FULLY jump into JavaScript. 
+
+**Thoughts:** This feels right! And the flow of the program is just what I need for review.
+
+**Link to work**: 

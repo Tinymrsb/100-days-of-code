@@ -342,3 +342,19 @@
 **Thoughts:** This feels right! And the flow of the program is just what I need for review.
 
 **Link to work**: 
+
+## Day 44: March 29, 2022
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work**: 
+
+## Day 45: March 30, 2022
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work**: 

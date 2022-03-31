@@ -345,7 +345,7 @@
 
 ## Day 44: March 29, 2022
 
-**Today's Progress**:
+**Today's Progress**: Codecademy course focus
 
 **Thoughts:** 
 
@@ -353,8 +353,8 @@
 
 ## Day 45: March 30, 2022
 
-**Today's Progress**:
+**Today's Progress**: Codecademy course focus, attempting to install git and figure out how to push to github.
 
-**Thoughts:** 
+**Thoughts:** This is all still so confusing. Repo, fork, local, directory, abcdefg.
 
 **Link to work**: 

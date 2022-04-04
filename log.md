@@ -358,3 +358,35 @@
 **Thoughts:** This is all still so confusing. Repo, fork, local, directory, abcdefg.
 
 **Link to work**: 
+
+## Day 45: March 31, 2022
+
+**Today's Progress**: Codecademy course focus
+
+**Thoughts:** 
+
+**Link to work**: 
+
+## Day 46: April, 1 2022
+
+**Today's Progress**: Codecademy course focus
+
+**Thoughts:** 
+
+**Link to work**: 
+
+## Day 47: April, 2 2022
+
+**Today's Progress**: Codecademy course focus
+
+**Thoughts:** 
+
+**Link to work**: 
+
+## Day 47: April, 3 2022
+
+**Today's Progress**: Codecademy course focus! STILL but I took time to create a HTML document from scratch, attach the normalize and style sheet and AND upload this to GitHub. I did not do that locally beacuse I still am learning how to execute that, but progress! 
+
+**Thoughts:** I cannot beleive I am almost to day 50!
+
+**Link to work**: https://github.com/Tinymrsb/LivingJournal

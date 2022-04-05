@@ -393,17 +393,17 @@
 
 ## Day 49: April, 4 2022
 
-**Today's Progress**: Codecademy course focus
+**Today's Progress**: Codecademy course focus.
 
-**Thoughts:** 
+**Thoughts:** I'm at 3% of the Full Stack path. The flow of these lessons are great!
 
 **Link to work**: 
 
 ## Day 50: April, 5 2022
 
-**Today's Progress**: Codecademy course focus
+**Today's Progress**: Codecademy course focus along with creating Living Journal.
 
-**Thoughts:** 
+**Thoughts:** Codecademy is going smoothly! I was able to structure my Living Journal from memory!
 
 **Link to work**: 
 

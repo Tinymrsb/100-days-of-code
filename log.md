@@ -359,7 +359,7 @@
 
 **Link to work**: 
 
-## Day 45: March 31, 2022
+## Day 46: March 31, 2022
 
 **Today's Progress**: Codecademy course focus
 
@@ -367,7 +367,7 @@
 
 **Link to work**: 
 
-## Day 46: April, 1 2022
+## Day 47: April, 1 2022
 
 **Today's Progress**: Codecademy course focus
 
@@ -375,7 +375,7 @@
 
 **Link to work**: 
 
-## Day 47: April, 2 2022
+## Day 48: April, 2 2022
 
 **Today's Progress**: Codecademy course focus
 
@@ -383,7 +383,7 @@
 
 **Link to work**: 
 
-## Day 48: April, 3 2022
+## Day 49: April, 3 2022
 
 **Today's Progress**: Codecademy course focus! STILL but I took time to create a HTML document from scratch, attach the normalize and style sheet and AND upload this to GitHub. I did not do that locally beacuse I still am learning how to execute that, but progress! 
 
@@ -391,7 +391,7 @@
 
 **Link to work**: https://github.com/Tinymrsb/LivingJournal
 
-## Day 49: April, 4 2022
+## Day 50: April, 4 2022
 
 **Today's Progress**: Codecademy course focus.
 
@@ -399,50 +399,10 @@
 
 **Link to work**: 
 
-## Day 50: April, 5 2022
+## Day 51: April, 5 2022
 
 **Today's Progress**: Codecademy course focus along with creating Living Journal.
 
 **Thoughts:** Codecademy is going smoothly! I was able to structure my Living Journal from memory!
 
-**Link to work**: 
-
-## Day 51: April, 6 2022
-
-**Today's Progress**: Codecademy course focus
-
-**Thoughts:** 
-
-**Link to work**: 
-
-## Day 52: April, 7 2022
-
-**Today's Progress**: Codecademy course focus
-
-**Thoughts:** 
-
-**Link to work**: 
-
-## Day 53: April, 8 2022
-
-**Today's Progress**: Codecademy course focus
-
-**Thoughts:** 
-
-**Link to work**: 
-
-## Day 54: April, 9 2022
-
-**Today's Progress**: Codecademy course focus
-
-**Thoughts:** 
-
-**Link to work**: 
-
-## Day 55: April, 10 2022
-
-**Today's Progress**: Codecademy course focus
-
-**Thoughts:** 
-
-**Link to work**: 
+**Link to work**: https://tinymrsb.github.io/livingjournal/

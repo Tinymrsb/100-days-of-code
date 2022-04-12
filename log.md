@@ -406,3 +406,33 @@
 **Thoughts:** Codecademy is going smoothly! I was able to structure my Living Journal from memory!
 
 **Link to work**: https://tinymrsb.github.io/livingjournal/
+
+## Day 52: April, 6 2022
+
+**Today's Progress**: Codecademy Full-Stack path
+
+## Day 53: April, 7 2022
+
+**Today's Progress**: Codecademy Full-Stack path
+
+## Day 54: April, 8 2022
+
+**Today's Progress**: Codecademy Full-Stack path
+
+## Day 55: April, 9 2022
+
+**Today's Progress**: Codecademy Full-Stack path
+
+## Day 57: April, 10 2022
+
+**Today's Progress**: Codecademy Full-Stack path
+
+## Day 58: April, 11 2022
+
+**Today's Progress**: Codecademy Full-Stack path
+
+## Day 59: April, 12 2022
+
+**Today's Progress**: I've included math lessons in the mix with my coding path. Today I'm working on a lesson using Kahn academy and continuing my Codecademy lessons.
+
+

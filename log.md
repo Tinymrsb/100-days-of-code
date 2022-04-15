@@ -435,4 +435,16 @@
 
 **Today's Progress**: I've included math lessons in the mix with my coding path. Today I'm working on a lesson using Kahn academy and continuing my Codecademy lessons.
 
+## Day 60: April, 13 2022
+
+**Today's Progress**: Codecademy Full-Stack path
+
+## Day 61: April, 14 2022
+
+**Today's Progress**: Codecademy Full-Stack path and math focus
+
+## Day 62: April, 15 2022
+
+**Today's Progress**: Codecademy Full-Stack path also worked in my Living Journal project. 
+
 

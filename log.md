@@ -447,4 +447,16 @@
 
 **Today's Progress**: Codecademy Full-Stack path also worked in my Living Journal project. 
 
+## Day 63: April, 16 2022
+
+**Today's Progress**: Codecademy Full-Stack path slow and steady!
+
+## Day 64: April, 17 2022
+
+**Today's Progress**: Codecademy Full-Stack path
+
+## Day 65: April, 18 2022
+
+**Today's Progress**: Codecademy Full-Stack path, I wish I had an exciting project to add but I'm reviewing CSS and just trying to be consistent with learning. 
+
 

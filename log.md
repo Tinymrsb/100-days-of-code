@@ -459,4 +459,19 @@
 
 **Today's Progress**: Codecademy Full-Stack path, I wish I had an exciting project to add but I'm reviewing CSS and just trying to be consistent with learning. 
 
+## Day 66: April, 19 2022
+
+**Today's Progress**: Codecademy Full-Stack path
+
+## Day 67: April, 20 2022
+
+**Today's Progress**: Codecademy Full-Stack path
+
+## Day 68: April, 21 2022
+
+**Today's Progress**: Codecademy Full-Stack path, worked on my portoflio page. I've learned that I need to query it for mobile. This is a whole new topic for me to learn. I've studied it but haven't had the opportunity to work with it yet.
+
+## Day 69: April, 22 2022
+
+**Today's Progress**: Codecademy Full-Stack path
 

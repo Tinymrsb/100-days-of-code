@@ -475,3 +475,7 @@
 
 **Today's Progress**: Codecademy Full-Stack path
 
+## Day 80: May 6, 2022
+
+**Today's Progress**: I have made it so far. I hate this log, my apologies. 
+
